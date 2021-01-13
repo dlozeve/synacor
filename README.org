@@ -1,0 +1,10 @@
+* Synacor Challenge
+
+Solutions to the [[https://challenge.synacor.com/][Synacor Challenge]]
+
+The virtual machine is implemented in [[src/vm.c]]. Compile it with =make=
+and run it on the challenge program:
+
+#+begin_src sh
+  ./vm challenge.bin
+#+end_src
